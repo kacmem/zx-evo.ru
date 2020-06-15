@@ -1,2 +1,2 @@
 # zxevo
-ZX Evolution Documentstion
+ZX Evolution Documentation
